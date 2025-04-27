@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on **random coding stuff**
-- 🌱 I’m currently learning **How not to hate Java**
+- 🌱 I’m currently learning **how to not hate Java**
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
