@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">High Schooler in Bay Are</h3>a
+<h1 align="center">Hi 👋, I'm Dhruv🐬</h1>
+<h3 align="center">High Schooler in Bay Area</h3>
 <p align="left"> <img src="![](https://hit.yhype.me/github/profile?account_id=129688441)" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mr-Smith1&theme=dark_dimmed" alt="Mr-Smith1" /></a> </p>
 
 - 🔭 I’m currently working on **random coding stuff**
 - 🌱 I’m currently learning **How not to hate Java**
