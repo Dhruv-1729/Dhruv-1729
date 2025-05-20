@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv🐬</h1>
-<h3 align="center">High Schooler in Bay Area</h3>
+<h3 align="center">High Schooler in the Bay Area</h3>
 <p align="left"> <img src="![](https://hit.yhype.me/github/profile?account_id=129688441)" /> </p>
 
 
